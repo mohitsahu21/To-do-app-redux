@@ -1,1 +1,2 @@
-# To-do-app-redux with mohit
+# To-do-app-redux
+with mohit
